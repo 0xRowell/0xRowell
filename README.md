@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0xRowell
-- 🌱 I’m currently learning Practical Ethical Hacking.
-
+- 🌱 I’m currently learning Cyber Security.
 
 
 <!---
